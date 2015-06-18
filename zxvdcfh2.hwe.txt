@@ -1,0 +1,40 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   db.json
+#	modified:   public/2015/06/12/pages/index.html
+#	modified:   public/2015/06/14/test/index.html
+#	deleted:    public/css/fonts/FontAwesome.otf
+#	deleted:    public/css/fonts/fontawesome-webfont.eot
+#	deleted:    public/css/fonts/fontawesome-webfont.svg
+#	deleted:    public/css/fonts/fontawesome-webfont.ttf
+#	deleted:    public/css/fonts/fontawesome-webfont.woff
+#	deleted:    public/css/images/banner.jpg
+#	modified:   public/css/main.css
+#	deleted:    public/css/style.css
+#	deleted:    public/fancybox/blank.gif
+#	deleted:    public/fancybox/fancybox_loading.gif
+#	deleted:    public/fancybox/fancybox_loading@2x.gif
+#	deleted:    public/fancybox/fancybox_overlay.png
+#	deleted:    public/fancybox/fancybox_sprite.png
+#	deleted:    public/fancybox/fancybox_sprite@2x.png
+#	deleted:    public/fancybox/helpers/fancybox_buttons.png
+#	deleted:    public/fancybox/helpers/jquery.fancybox-buttons.css
+#	deleted:    public/fancybox/helpers/jquery.fancybox-buttons.js
+#	deleted:    public/fancybox/helpers/jquery.fancybox-media.js
+#	deleted:    public/fancybox/helpers/jquery.fancybox-thumbs.css
+#	deleted:    public/fancybox/helpers/jquery.fancybox-thumbs.js
+#	deleted:    public/fancybox/jquery.fancybox.css
+#	deleted:    public/fancybox/jquery.fancybox.js
+#	deleted:    public/fancybox/jquery.fancybox.pack.js
+#	modified:   public/index.html
+#	deleted:    public/js/script.js
+#
+# Changes not staged for commit:
+#	modified:   themes/next (modified content)
+#
+
