@@ -73,4 +73,10 @@ deploy:
   branch: master
 
 #duoshuo
-duoshuo_shortname: yitianyigexiangfa
+#duoshuo_shortname: yitianyigexiangfa
+
+#baidu_tongji
+baidu_analytics: c008ac8d4982789e3fe3d6957982871c
+
+#web_since
+since: 2015
